@@ -98,7 +98,7 @@ engine modules only.
 code examples, master-material graph, performance tuning and troubleshooting.
 
 **Documentation link:** https://github.com/SimulatedFlow/ue-plugin-MaterialDrivenShadows
-**Support:** simulatedflow@gmail.com
+**Support:** teufelsilvan@gmail.com
 
 **Important / Additional notes**
 
@@ -162,4 +162,4 @@ initial review count, then hold at €49.
 
 ---
 
-*© 2026 Simulated Flow. All rights reserved.*
+*© 2026 Silvan Teufel. All rights reserved.*

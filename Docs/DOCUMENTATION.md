@@ -1,6 +1,6 @@
 # Material-Driven Shadows — Documentation
 
-**Version 1.0.0 · Unreal Engine 5.8 · Win64 · Support: simulatedflow@gmail.com**
+**Version 1.0.0 · Unreal Engine 5.8 · Win64 · Support: teufelsilvan@gmail.com**
 
 ---
 
@@ -476,4 +476,4 @@ Stated plainly, so you know what you are buying:
 
 ---
 
-*© 2026 Simulated Flow. All rights reserved.*
+*© 2026 Silvan Teufel. All rights reserved.*
