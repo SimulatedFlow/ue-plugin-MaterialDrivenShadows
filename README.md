@@ -6,8 +6,9 @@ ground blending are driven entirely by per-instance custom data in the material.
 
 Supports **Unreal Engine 5.8**. Full C++ source included.
 
-See `Docs/DOCUMENTATION.md` for installation, quick start, the full API and the master-material recipe.
+Documentation, free and without an account: <https://wiki.teufel-engineering.com/en/MaterialDrivenShadows/documentation> — installation, quick start, the full API and the master-material recipe.
 
+The same manual ships with the plugin as `Docs/DOCUMENTATION.md`.
 - **Support:** teufelsilvan@gmail.com
 - **Version:** 1.0.0
 
